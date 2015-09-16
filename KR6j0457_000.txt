@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 穢跡金剛禁百變法經
+#+DATE: 2015-08-30 20:32:54.308527
+#+PROPERTY: JUAN 0
