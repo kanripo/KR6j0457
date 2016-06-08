@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:54.080014
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:13
 #+TITLE: 穢跡金剛禁百變法經
 #+PROPERTY: CBETA_ID T21n1229
 #+PROPERTY: ID KR6j0457
